@@ -68,17 +68,17 @@ Storage classes in C++ define the **scope (visibility)**, **lifetime**, and **lo
 5. **`mutable`**
 
    * Allows modification of class members even if the object is declared `const`.
-  
-     Algorithm:
 
-Start the program.
-Declare an integer variable. Prompt the user and read an integer. Print its value and size.
-Declare a float variable. Prompt the user and read a float. Print its value and size.
-Declare a string variable. Prompt the user and read a word. Print its value and size.
-Declare a double variable. Prompt the user and read a double. Print its value and size.
-Declare a char variable. Prompt the user and read a character. Print its value and size.
-Declare a bool variable. Prompt the user and read a boolean value (true/false). Print its value and size.
-End the program.
+-Algorithm:
+
+-Start the program.
+-Declare an integer variable. Prompt the user and read an integer. Print its value and size.
+-Declare a float variable. Prompt the user and read a float. Print its value and size.
+-Declare a string variable. Prompt the user and read a word. Print its value and size.
+-declare a double variable. Prompt the user and read a double. Print its value and size.
+-Declare a char variable. Prompt the user and read a character. Print its value and size.
+-Declare a bool variable. Prompt the user and read a boolean value (true/false). Print its value and size.
+-End the program.
 
 
 ### **Conclusion:**
